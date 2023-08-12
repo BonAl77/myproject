@@ -20,7 +20,7 @@
     <input type="email" name="email" id="email" placeholder="Введите email" class="form-control"><br>
     <input type="text" name="subject" id="subject" placeholder="Введите отзыв" class="form-control"><br>
     <textarea name="message" id="message" class="form-control" placeholder="Введите сообщения"></textarea><br>
-    <button type="submit" class="btn btn-success">Отправить</button>
+    <button type="submit" class="btn btn btn-outline-danger">Отправить</button>
 
 </form>
 <br>

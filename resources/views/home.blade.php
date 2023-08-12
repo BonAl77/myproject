@@ -13,24 +13,24 @@
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="public\img\cake1.jpg" class="d-block w-100" alt="...">
+      <img src="\public\img\cake1.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Торт</h5>
-        <p>Некоторый репрезентативный заполнитель для первого слайда.</p>
+        <h1>Торты</h1>
+        <p style="color:orange">Каждый из наших тортов — это уникальная история, рассказываемая вкусом.</style></p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="public\img\cake2.jpg" class="d-block w-100" alt="...">
+      <img src="\public\img\cake2.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Рецепты национальной кухни</h5>
-        <p>Некоторый репрезентативный заполнитель для второго слайда.</p>
+        <h1>Рецепты национальной кухни</h1>
+        <p style="color:orange">Откройте для себя богатство национальных вкусов через наш ассортимент блюд.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="public\img\cake3.jpg" class="d-block w-100" alt="...">
+      <img src="\public\img\cake3.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Печенья</h5>
-        <p>Некоторый репрезентативный заполнитель для третьего слайда.</p>
+        <h1>Печенья</h1>
+        <p style="color:orange">Дайте волю своей сладкой стороне с нашим ассортиментом печенья.</p>
       </div>
     </div>
   </div>
@@ -52,14 +52,14 @@
 
 <div class="row featurette">
   <div class="col-md-7">
-    <h2 class="featurette-heading fw-normal lh-1">First featurette heading. <span class="text-body-secondary">It’ll blow your mind.</span></h2>
-    <p class="lead">Some great placeholder content for the first featurette here. Imagine some exciting prose here.</p>
+    <h2 class="featurette-heading fw-normal lh-1">Ингредиенты.<span class="text-body-secondary">Ингредиенты играют ключевую роль в приготовлении вкусных и ароматных блюд.</span></h2>
+    <p class="lead">Правильный выбор и качество потребления являются важными аспектами приготовления любой еды.
+Для достижения наилучших результатов рекомендуется использовать свежие и качественные продукты.</p>
   </div>
   <div class="col-md-5">
-    <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false">
-      <title>Placeholder</title>
-      <rect width="100%" height="100%" fill="var(--bs-secondary-bg)"></rect><text x="50%" y="50%" fill="var(--bs-secondary-color)" dy=".3em">500x500</text>
-    </svg>
+    <img src="public\img\ингредиенты.jpg" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="" preserveAspectRatio="xMidYMid slice" focusable="false">
+      <title>Ингредиенты</title>
+      <rect width="100%" height="100%" fill="var(--bs-secondary-bg)"></rect>
   </div>
 </div>
 
@@ -67,14 +67,14 @@
 
 <div class="row featurette">
   <div class="col-md-7 order-md-2">
-    <h2 class="featurette-heading fw-normal lh-1">Oh yeah, it’s that good. <span class="text-body-secondary">See for yourself.</span></h2>
-    <p class="lead">Another featurette? Of course. More placeholder content here to give you an idea of how this layout would work with some actual real-world content in place.</p>
+    <h2 class="featurette-heading fw-normal lh-1">Кухонные гаджеты. <span class="text-body-secondary">Разнообразные инструменты и устройства, используемые на кухне для облегчения и улучшения процесса приготовления пищи.</span></h2>
+    <p class="lead">Гаджеты ускоряют процессы нарезки, смешивания, перемешивания и другие операции, помогают повысить эффективность, точность и безопасность приготовления блюд, а также добавляют возможности для творчества и экспериментов. Они позволяют сэкономить время и усилия при подготовке ингредиентов и приготовлении блюд, ускоряют процессы нарезки, смешивания, перемешивания и другие операции.</p>
   </div>
   <div class="col-md-5 order-md-1">
-    <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false">
+    <img src="public\img\гаджеты.jpg" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false">
       <title>Placeholder</title>
-      <rect width="100%" height="100%" fill="var(--bs-secondary-bg)"></rect><text x="50%" y="50%" fill="var(--bs-secondary-color)" dy=".3em">500x500</text>
-    </svg>
+      <rect width="100%" height="100%" fill="var(--bs-secondary-bg)"></rect>
+
   </div>
 </div>
 
@@ -82,18 +82,18 @@
 
 <div class="row featurette">
   <div class="col-md-7">
-    <h2 class="featurette-heading fw-normal lh-1">And lastly, this one. <span class="text-body-secondary">Checkmate.</span></h2>
-    <p class="lead">And yes, this is the last block of representative placeholder content. Again, not really intended to be actually read, simply here to give you a better view of what this would look like with some actual content. Your content.</p>
+    <h2 class="featurette-heading fw-normal lh-1">Полезное питание. <span class="text-body-secondary">ПП рецепты выпечки обычно используют более здоровые ингредиенты и методы приготовления, чтобы создать более питательные и менее калорийные лакомства.</span></h2>
+    <p class="lead">Примеры ПП рецептов выпечки включают здоровые маффины с ягодами и орехами, цельнозерновые печенья с добавлением сухофруктов, банановый хлеб с натуральным подсластителем, овсяно-ягодные батончики и многое другое. Эти рецепты позволяют наслаждаться вкусной выпечкой, не ущербом для здоровья.</p>
   </div>
   <div class="col-md-5">
-    <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false">
+    <img src="public\img\ПП.jpg" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false">
       <title>Placeholder</title>
-      <rect width="100%" height="100%" fill="var(--bs-secondary-bg)"></rect><text x="50%" y="50%" fill="var(--bs-secondary-color)" dy=".3em">500x500</text>
-    </svg>
+      <rect width="100%" height="100%" fill="var(--bs-secondary-bg)"></rect>
+   
   </div>
 </div>
 
-<hr class="featurette-divider">
+
 
 <!-- /END THE FEATURETTES -->
 

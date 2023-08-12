@@ -2,59 +2,35 @@
 
 @section('title')Страница о нас@endsection
 @section('main_content')
-<h1>Страница о нас</h1>
-<div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
-      <div class="col">
-        <div class="card mb-4 rounded-3 shadow-sm">
-          <div class="card-header py-3">
-            <h4 class="my-0 fw-normal">Free</h4>
-          </div>
-          <div class="card-body">
-            <h1 class="card-title pricing-card-title">$0<small class="text-body-secondary fw-light">/mo</small></h1>
-            <ul class="list-unstyled mt-3 mb-4">
-              <li>10 users included</li>
-              <li>2 GB of storage</li>
-              <li>Email support</li>
-              <li>Help center access</li>
-            </ul>
-            <button type="button" class="w-100 btn btn-lg btn-outline-primary">Sign up for free</button>
-          </div>
-        </div>
+
+<main>
+  
+
+
+  <div class="b-example-divider"></div>
+
+  <div class="container col-xxl-8 px-4 py-5">
+    <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+      <div class="col-10 col-sm-8 col-lg-6">
+        <img src="public\img\about-photo.jpeg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy">
       </div>
-      <div class="col">
-        <div class="card mb-4 rounded-3 shadow-sm">
-          <div class="card-header py-3">
-            <h4 class="my-0 fw-normal">Pro</h4>
-          </div>
-          <div class="card-body">
-            <h1 class="card-title pricing-card-title">$15<small class="text-body-secondary fw-light">/mo</small></h1>
-            <ul class="list-unstyled mt-3 mb-4">
-              <li>20 users included</li>
-              <li>10 GB of storage</li>
-              <li>Priority email support</li>
-              <li>Help center access</li>
-            </ul>
-            <button type="button" class="w-100 btn btn-lg btn-primary">Get started</button>
-          </div>
-        </div>
-      </div>
-      <div class="col">
-        <div class="card mb-4 rounded-3 shadow-sm border-primary">
-          <div class="card-header py-3 text-bg-primary border-primary">
-            <h4 class="my-0 fw-normal">Enterprise</h4>
-          </div>
-          <div class="card-body">
-            <h1 class="card-title pricing-card-title">$29<small class="text-body-secondary fw-light">/mo</small></h1>
-            <ul class="list-unstyled mt-3 mb-4">
-              <li>30 users included</li>
-              <li>15 GB of storage</li>
-              <li>Phone and email support</li>
-              <li>Help center access</li>
-            </ul>
-            <button type="button" class="w-100 btn btn-lg btn-primary">Contact us</button>
-          </div>
+      <div class="col-lg-6">
+        <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">Страница о нас</h1>
+        <p class="lead">Добро пожаловать на наш кулинарный портал, где страсть к еде сочетается с творчеством и знанием! Мы - команда энтузиастов, объединенных общей любовью к кулинарии и желанием делиться своим опытом, рецептами и секретами с вами.
+
+Наша миссия заключается в том, чтобы вдохновлять вас на новые кулинарные подвиги, помогать вам развивать навыки готовки и радовать близких восхитительными блюдами. Независимо от вашего уровня подготовки - будь то начинающий повар или опытный гурман - у нас вы найдете полезные советы, пошаговые инструкции и интересные идеи. Приятного аппетита и кулинарных успехов!
+
+С любовью и вкусом,
+Команда <img src="public\img\logo .jpg" width="90" height="50" alt="logo"></p>
+        <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+          <a button type="button" href="/" class="btn btn-outline-danger btn-lg px-4 me-md-2">Главная страница</button></a>
+          
         </div>
       </div>
     </div>
+  </div>
+
+  
+</main>
 @endsection
 
